@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="obfuscate" default="build obfuscated jar file" basedir=".">
+
+	<echo message="pcc = ${pcc}" />
+
+	<target name="build unobfuscated jar file">
+		<delete file="unobfuscated.jar"/>		<!-- useful while debugging this build file -->
+		<jar jarfile="unobfuscated.jar" basedir="." includes="**/*.class" update="yes">
+			<fileset dir="${pcc}" includes="**/SwingWindow*.class" />
+			<!-- couldn't get this to work: <classfileset rootclass="pcc.SwingWindow.class" includes="**/*.class" dir="${pcc}" /> -->
+			<manifest>
+				<attribute name="Main-Class" value="ColorBtns" />
+			</manifest>
+		</jar>
+	</target>
+	
+	<target name="build obfuscated jar file" depends="build unobfuscated jar file">
+		<taskdef name="yguard" classname="com.yworks.yguard.YGuardTask" />
+			<!-- to avoid a warning that ant can't find com.yworks.yguard.YGuardTask, add yguard.jar to:
+				 Window -> Preferences -> Ant -> Runtime -> Classpath -> Global Entries					-->
+		<yguard>
+			<inoutpair in="unobfuscated.jar" out="obfuscated.jar" />
+			<shrink />
+			<rename mainclass="ColorBtns" />
+		</yguard>
+	</target>
+
+</project>

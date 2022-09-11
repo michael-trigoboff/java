@@ -1,0 +1,6 @@
+class TargetClassParent
+{
+    TargetClassParent()
+    {
+    }
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS261.ews.iml" filepath="$PROJECT_DIR$/CS261.ews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java system properties/Java system properties.iml" filepath="$PROJECT_DIR$/Java system properties/Java system properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbc/hbc/hbc-example/hbc-example.iml" filepath="$PROJECT_DIR$/hbc/hbc/hbc-example/hbc-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-media-support/src/main/main.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-media-support/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-appengine/src/main/main1.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-appengine/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbc/hbc/hbc-twitter4j-v3/src/main/main2.iml" filepath="$PROJECT_DIR$/hbc/hbc/hbc-twitter4j-v3/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-core/src/main/main3.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-core/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbc/hbc/hbc-core/src/main/main4.iml" filepath="$PROJECT_DIR$/hbc/hbc/hbc-core/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbc/hbc/hbc-twitter4j/src/main/main5.iml" filepath="$PROJECT_DIR$/hbc/hbc/hbc-twitter4j/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-stream/src/main/main6.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-stream/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-async/src/main/main7.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-async/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbc/hbc/hbc-twitter4j/src/test/test.iml" filepath="$PROJECT_DIR$/hbc/hbc/hbc-twitter4j/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbc/hbc/hbc-core/src/test/test1.iml" filepath="$PROJECT_DIR$/hbc/hbc/hbc-core/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-media-support/src/test/test2.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-media-support/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbc/hbc/hbc-twitter4j-v3/src/test/test3.iml" filepath="$PROJECT_DIR$/hbc/hbc/hbc-twitter4j-v3/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-appengine/src/test/test4.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-appengine/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-core/src/test/test5.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-core/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-async/src/test/test6.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-async/src/test/test6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-stream/src/test/test7.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-stream/src/test/test7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-examples/twitter4j-examples.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-examples/twitter4j-examples.iml" />
+    </modules>
+  </component>
+</project>

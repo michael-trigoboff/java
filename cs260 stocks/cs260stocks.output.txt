@@ -1,0 +1,65 @@
+----------------------------------------------------------------------------
+no stocks
+----------------------------------------------------------------------------
+
+IBM not found
+added IBM
+
+----------------------------------------------------------------------------
+symbol  name                                   price       date
+------  ----                                   -----       ----
+IBM     International Business Machines        25.73       May 23, 1967
+----------------------------------------------------------------------------
+
+found IBM
+removed IBM
+IBM not found
+IBM not removed
+added MLT
+added IBM
+added XRX
+added US:BA
+added GD
+added AAPL
+added AAPL
+added GE
+added ATT
+
+----------------------------------------------------------------------------
+symbol  name                                   price       date
+------  ----                                   -----       ----
+GD      General Dynamics                       72.81       Oct 24, 2006
+GE      General Electric                       19.48       Mar 22, 1987
+IBM     International Business Machines        25.73       May 23, 1967
+US:BA   Boeing                                 64.07       Dec 14, 1993
+XRX     Xerox                                  18.92       Jun 1, 1980
+MLT     MLT Software, Inc.                      8.00       Apr 18, 1988
+ATT     American Telephone & Telegraph          0.20       May 10, 1998
+AAPL    Apple Computer, Inc.                   23.08       May 1, 1980
+----------------------------------------------------------------------------
+
+found ATT
+removed AAPL
+AAPL not removed
+found ATT
+removed US:BA
+found GE
+removed GE
+found ATT
+added AAPL
+added GE
+added US:BA
+
+----------------------------------------------------------------------------
+symbol  name                                   price       date
+------  ----                                   -----       ----
+GD      General Dynamics                       72.81       Oct 24, 2006
+GE      General Electric                       19.48       Mar 22, 1987
+IBM     International Business Machines        25.73       May 23, 1967
+US:BA   Boeing                                 64.07       Dec 14, 1993
+XRX     Xerox                                  18.92       Jun 1, 1980
+MLT     MLT Software, Inc.                      8.00       Apr 18, 1988
+ATT     American Telephone & Telegraph          0.20       May 10, 1998
+AAPL    Apple Computer, Inc.                   23.08       May 1, 1980
+----------------------------------------------------------------------------
+

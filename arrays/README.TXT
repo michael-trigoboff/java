@@ -1,0 +1,1 @@
+demonstration of internal structure of arrays

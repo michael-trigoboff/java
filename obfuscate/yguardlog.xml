@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yguard version="1.5">
+<!--
+  yGuard Bytecode Obfuscator, v2.4, a Product of yWorks GmbH - http://www.yworks.com
+
+  Logfile created on Thu Feb 20 09:56:48 PST 2014
+
+  Jar file to be obfuscated:           yguard_temp_4314551106530121742.jar
+  Target Jar file for obfuscated code: obfuscated.jar
+
+-->
+<!--
+  Memory in use after class data structure built: 3933696 bytes
+  Total memory available                        : 16318464 bytes
+-->
+<expose>
+  <class name="ColorBtns"/>
+  <method class="ColorBtns" name="void main(java.lang.String[])"/>
+</expose>
+<map>
+  <package name="pcc" map="A"/>
+  <class name="pcc.SwingWindow$1" map="1"/>
+  <field class="pcc.SwingWindow$1" name="this$0" map="A"/>
+  <method class="pcc.SwingWindow$1" name="void windowClosed(java.awt.event.WindowEvent)" map="windowClosed"/>
+  <class name="pcc.SwingWindow" map="A"/>
+  <field class="pcc.SwingWindow" name="closed" map="A"/>
+  <method class="pcc.SwingWindow" name="void access$0(pcc.SwingWindow, boolean)" map="A"/>
+  <method class="pcc.SwingWindow" name="void waitForClose()" map="A"/>
+  <class name="ColorBtnsPanel$BtnColor" map="_A"/>
+  <field class="ColorBtnsPanel$BtnColor" name="ENUM$VALUES" map="A"/>
+  <field class="ColorBtnsPanel$BtnColor" name="color" map="B"/>
+  <field class="ColorBtnsPanel$BtnColor" name="Green" map="C"/>
+  <field class="ColorBtnsPanel$BtnColor" name="Orange" map="D"/>
+  <field class="ColorBtnsPanel$BtnColor" name="Red" map="E"/>
+  <field class="ColorBtnsPanel$BtnColor" name="Blue" map="F"/>
+  <field class="ColorBtnsPanel$BtnColor" name="Yellow" map="G"/>
+  <method class="ColorBtnsPanel$BtnColor" name="ColorBtnsPanel$BtnColor[] values()" map="values"/>
+  <method class="ColorBtnsPanel$BtnColor" name="java.awt.Color access$2(ColorBtnsPanel$BtnColor)" map="A"/>
+  <method class="ColorBtnsPanel$BtnColor" name="ColorBtnsPanel$BtnColor valueOf(java.lang.String)" map="valueOf"/>
+  <class name="ColorBtnsPanel$ColorRBtn" map="_B"/>
+  <field class="ColorBtnsPanel$ColorRBtn" name="this$0" map="A"/>
+  <field class="ColorBtnsPanel$ColorRBtn" name="color" map="B"/>
+  <method class="ColorBtnsPanel$ColorRBtn" name="void actionPerformed(java.awt.event.ActionEvent)" map="actionPerformed"/>
+  <class name="ColorBtnsPanel" map="A"/>
+</map>
+</yguard>

@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.4
+Created-By: yGuard Bytecode Obfuscator 2.4
+Main-Class: ColorBtns
+
+Name: A.class
+SHA-1-Digest: wPlm1F8EkUBU6W+2vIQfJ0XuDRY=
+Digest-Algorithms: SHA-1, MD5
+MD5-Digest: bI+x15mLN8gOu+kofAfMJQ==
+
+Name: A/A.class
+SHA-1-Digest: uiNctVPhEz/fh036LyHVfq1p8JQ=
+Digest-Algorithms: SHA-1, MD5
+MD5-Digest: dSRWqhPgvIN/KUiE1Y4sbw==
+
+Name: A$_B.class
+SHA-1-Digest: qzQdsWvnAqmWGBNzzvwZyP1kGvA=
+Digest-Algorithms: SHA-1, MD5
+MD5-Digest: dW05IgAoR7r5Mteu7fewfg==
+
+Name: A/A$1.class
+SHA-1-Digest: WGlkORwqUBaz72qTxoXaXbhgw4A=
+Digest-Algorithms: SHA-1, MD5
+MD5-Digest: LeN0gqrT5BZgd449Rcw8Fw==
+
+Name: A$_A.class
+SHA-1-Digest: 0vMT2ushz8CX3y34u1MImpj6pRE=
+Digest-Algorithms: SHA-1, MD5
+MD5-Digest: Mx/2Ikh1Ci9q55zdwZ1A3A==
+
+Name: ColorBtns.class
+SHA-1-Digest: ZzSHLXkBssYULQIIS16Pkmeb9AM=
+Digest-Algorithms: SHA-1, MD5
+MD5-Digest: 6TDV981QGa+RwjfM5+GiUg==
+

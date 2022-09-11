@@ -1,0 +1,6 @@
+System.out.println("println, no return");           0x0D, 0x0A
+
+System.out.println("println, with return\n");       0x0A, 0x0D, 0x0A
+
+System.out.printf("printf\n");                      0x0A
+
