@@ -22,6 +22,7 @@
       <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-async/src/test/test6.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-async/src/test/test6.iml" />
       <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-stream/src/test/test7.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-stream/src/test/test7.iml" />
       <module fileurl="file://$PROJECT_DIR$/twitter4j/twitter4j-examples/twitter4j-examples.iml" filepath="$PROJECT_DIR$/twitter4j/twitter4j-examples/twitter4j-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wyzant/wyzant.iml" filepath="$PROJECT_DIR$/wyzant/wyzant.iml" />
     </modules>
   </component>
 </project>
